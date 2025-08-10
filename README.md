@@ -37,7 +37,7 @@ To get everything setup so that your toys can communicate with the game, please 
     - Documentation for BepInEx can be found [here](https://docs.bepinex.dev/articles/user_guide/installation/index.html). 
 3. Place the content of the BepInEx zip file you downloaded directly inside your \Oh So Hero!\ folder. 
 4. Launch Oh So Hero!, then close the game. This will cause BepInEx to generate the files that it needs to interact with the game. 
-5. Download the latest release for this plugin. 
+5. Download the [latest release](https://github.com/FrostedEntropy/OhSoPlugged/releases) for this plugin. 
 6. Place all the files in the \Oh So Hero!\BepInEx\plugins\ folder. 
 7. Launch Initface Central and Start the server.
 8. Make sure that your toys are connected.
