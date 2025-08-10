@@ -39,7 +39,7 @@ To get everything setup so that your toys can communicate with the game, please 
 4. Launch Oh So Hero!, then close the game. This will cause BepInEx to generate the files that it needs to interact with the game. 
 5. Download the [latest release](https://github.com/FrostedEntropy/OhSoPlugged/releases) for this plugin. 
 6. Place all the files in the \Oh So Hero!\BepInEx\plugins\ folder. 
-7. Launch Initface Central and Start the server.
+7. Launch Intiface Central and Start the server.
 8. Make sure that your toys are connected.
     - Under the Devices tab, click Start Scanning to scan for your toys. 
 9. Launch Oh So Hero!
@@ -49,10 +49,10 @@ To get everything setup so that your toys can communicate with the game, please 
 
 I only have Lovense toys available, so my ability to assist with other toys is limited. With that said, if your toy disconnects frequently 
 and it is not a Lovense toy, then consider modifying the RefreshRate in SexConfig.json to 1 instead of 0.5. This *might* help by reducing how
-frequently we are making calls to Initface/Toy, which could prevent some errors. 
+frequently we are making calls to Intiface/Toy, which could prevent some errors. 
 
-For Lovense toys, I found that using the Lovense Connect app on my phone and connecting that to Initface Central provided a much more stable
-connection even with a refresh rate of 0.5. Consider using that app if you experience frequent disconnects when your toy is connected directly to Initface Central. 
+For Lovense toys, I found that using the Lovense Connect app on my phone and connecting that to Intiface Central provided a much more stable
+connection even with a refresh rate of 0.5. Consider using that app if you experience frequent disconnects when your toy is connected directly to Intiface Central. 
 > Note: This may be because I'm using the default bluetooth driver for Windows 10, I've heard that it's not as reliable as a dedicated bluetooth USB adapter, but
 I have not confirmed this myself. 
 
