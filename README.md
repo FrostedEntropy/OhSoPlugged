@@ -76,9 +76,9 @@ Amongst the files included in this plugin, you'll find a file called "SexConfig.
 
 > Before making any changes to this file, it is recommended that you make a copy of it. If you make a mistake, like missing a comma or something, then the game may run into some errors. Having a backup will allow you to restore everything to the default parameters.  
 
-You can modify an existing animation by adding or removing scenes, and changing the strength or duration values. If you need to modify the duration values however, then you may need to consider modifying the RefreshRate if your durations has decimals that don't end with .0 or .5. 
+You can modify an existing animation by adding or removing scenes, and changing the strength or duration values. If you need to modify the duration values however, then you may need to consider modifying the RefreshRate if your duration has decimals that don't end with .0 or .5. 
 
-If new characters are added or in future updates, you can use one of the existing templates to more easily update the file. Simply CTRL+F for "TEMPLATE" and look for the appropriate version (NPC, MONSTER_TEMPLATE_Joe_CSP, etc.). Make a copy of this template, and modify the necessary fields. Don't forget the commas. Seriously. 
+If new characters are added in future updates, you can use one of the existing templates to more easily update the file. Simply CTRL+F for "TEMPLATE" and look for the appropriate version (NPC, MONSTER_TEMPLATE_Joe_CSP, etc.). Make a copy of this template, and modify the necessary fields. Don't forget the commas. Seriously. 
 > You might feel the need to create many duplicates of the TEMPLATEs, but this will cause error if you run the code as it doesn't like duplicated dictionary entries. Consider giving them unique placeholder names if needed. 
 
 Useful tips:
